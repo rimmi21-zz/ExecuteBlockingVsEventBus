@@ -1,0 +1,34 @@
+﻿ {
+    "employee": [
+      {
+        "name": "Maria",
+        "age": "20",
+        "address": "Delhi",
+        "salary": "2000"
+      },
+      {
+        "name": "Ana",
+        "age": "20",
+        "address": "Kolkata",
+        "salary": "2000"
+      },
+      {
+        "name": "Louise",
+        "age": "20",
+        "address": "Delhi",
+        "salary": "2000"
+      },
+      {
+        "name": "Kevin",
+        "age": "20",
+        "address": "Mumbai",
+        "salary": "2000"
+      },
+      {
+        "name": "Peter",
+        "age": "20",
+        "address": "Delhi",
+        "salary": "2000"
+      }
+    ]
+  }
